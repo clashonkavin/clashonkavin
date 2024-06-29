@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there! I’m Kavin.
+
+By day, I’m a software engineer crafting digital masterpieces. By night, I’m probably debugging dreams. Right now, I’m on a mission at Delta Force, making sure our apps are maintainable, scalable, and reliable—because who needs downtime, right? Oh, and coding? Yeah, you could say it’s my love language. 💻❤️
 
 <!--
 **clashonkavin/clashonkavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
