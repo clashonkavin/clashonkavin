@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there! I’m Kavin,
+
+A third year undergrad trying to bridge the gap between creativity and technology. Right now, I'm part of an amazing team (obv its delta), working together to build applications that are maintainable, scalable, and reliable—because who needs downtime, right? Oh, and coding? Yeah, you could say it’s my love language. 💻❤️
 
 <!--
 **clashonkavin/clashonkavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
